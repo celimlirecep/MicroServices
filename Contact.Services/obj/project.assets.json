@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Contact.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contact.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contact.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contact.Infrastructure.dll": {}
+        }
+      },
+      "Contact.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Contact.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contact.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Contact.Infrastructure/Contact.Infrastructure.csproj",
+      "msbuildProject": "../Contact.Infrastructure/Contact.Infrastructure.csproj"
+    },
+    "Contact.Models/1.0.0": {
+      "type": "project",
+      "path": "../Contact.Models/Contact.Models.csproj",
+      "msbuildProject": "../Contact.Models/Contact.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Contact.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\recep\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\Contact.Services\\Contact.Services.csproj",
+      "projectName": "Contact.Services",
+      "projectPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\Contact.Services\\Contact.Services.csproj",
+      "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\Contact.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\Contact.Infrastructure\\Contact.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\Contact.Infrastructure\\Contact.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

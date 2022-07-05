@@ -1,0 +1,12 @@
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\bin\Debug\net6.0\Reservation.Models.deps.json
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\bin\Debug\net6.0\Reservation.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\bin\Debug\net6.0\Reservation.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\refint\Reservation.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\Reservation.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Models\obj\Debug\net6.0\ref\Reservation.Models.dll

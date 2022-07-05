@@ -1,0 +1,17 @@
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Services.deps.json
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Services.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Services.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Infrastructure.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\bin\Debug\net6.0\Reservation.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.csproj.CopyComplete
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\refint\Reservation.Services.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\Reservation.Services.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Services\obj\Debug\net6.0\ref\Reservation.Services.dll

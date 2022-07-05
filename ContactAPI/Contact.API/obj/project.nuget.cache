@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i248V1b27vscn2hr2Dg7N+dzWho10fG/Ep0hOFfOVWclgIpLnedjbzoIyh4m1sy4iKW0CAYHe1+ckhfzu/aQ+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\MicroServices\\MicroServices\\Contact.API\\Contact.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recep\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

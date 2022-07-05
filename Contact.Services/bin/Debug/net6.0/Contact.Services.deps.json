@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Contact.Services/1.0.0": {
+        "dependencies": {
+          "Contact.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Contact.Services.dll": {}
+        }
+      },
+      "Contact.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Contact.Models": "1.0.0"
+        },
+        "runtime": {
+          "Contact.Infrastructure.dll": {}
+        }
+      },
+      "Contact.Models/1.0.0": {
+        "runtime": {
+          "Contact.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contact.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contact.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

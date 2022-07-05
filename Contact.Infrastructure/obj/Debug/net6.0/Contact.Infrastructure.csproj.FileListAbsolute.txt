@@ -1,0 +1,15 @@
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\bin\Debug\net6.0\Contact.Infrastructure.deps.json
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\bin\Debug\net6.0\Contact.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\bin\Debug\net6.0\Contact.Infrastructure.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\bin\Debug\net6.0\Contact.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\bin\Debug\net6.0\Contact.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.csproj.CopyComplete
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\refint\Contact.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\Contact.Infrastructure.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Infrastructure\obj\Debug\net6.0\ref\Contact.Infrastructure.dll

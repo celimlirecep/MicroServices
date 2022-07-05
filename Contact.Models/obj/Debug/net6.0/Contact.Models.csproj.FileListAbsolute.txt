@@ -1,0 +1,12 @@
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\bin\Debug\net6.0\Contact.Models.deps.json
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\bin\Debug\net6.0\Contact.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\bin\Debug\net6.0\Contact.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\refint\Contact.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\Contact.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Contact.Models\obj\Debug\net6.0\ref\Contact.Models.dll

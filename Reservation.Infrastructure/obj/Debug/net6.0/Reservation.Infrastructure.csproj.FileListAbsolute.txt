@@ -1,0 +1,15 @@
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\bin\Debug\net6.0\Reservation.Infrastructure.deps.json
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\bin\Debug\net6.0\Reservation.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\bin\Debug\net6.0\Reservation.Infrastructure.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\bin\Debug\net6.0\Reservation.Models.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\bin\Debug\net6.0\Reservation.Models.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.csproj.CopyComplete
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\refint\Reservation.Infrastructure.dll
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\Reservation.Infrastructure.pdb
+C:\Users\recep\OneDrive\Masaüstü\MicroServices\Reservation.Infrastructure\obj\Debug\net6.0\ref\Reservation.Infrastructure.dll
