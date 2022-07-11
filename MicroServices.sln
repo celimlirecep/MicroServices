@@ -11,21 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactAPI", "ContactAPI", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReservationAPI", "ReservationAPI", "{E2154E13-6D47-4021-8A2E-38F600EE5C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API", "Contact.API\Contact.API.csproj", "{38B14CBB-3E4C-45B2-A95F-E56F8C01E1D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API", "Contact.API\Contact.API.csproj", "{38B14CBB-3E4C-45B2-A95F-E56F8C01E1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.API", "Reservation.API\Reservation.API.csproj", "{BCA15DDE-CF78-4EBD-8BCC-E792193B915C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API", "Reservation.API\Reservation.API.csproj", "{BCA15DDE-CF78-4EBD-8BCC-E792193B915C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Infrastructure", "Contact.Infrastructure\Contact.Infrastructure.csproj", "{2DC922CF-79D1-497C-92C1-B2086B92100F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Infrastructure", "Contact.Infrastructure\Contact.Infrastructure.csproj", "{2DC922CF-79D1-497C-92C1-B2086B92100F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Models", "Contact.Models\Contact.Models.csproj", "{45AEDCC7-A9BB-4C04-B70C-517F343B1EB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Models", "Contact.Models\Contact.Models.csproj", "{45AEDCC7-A9BB-4C04-B70C-517F343B1EB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Services", "Contact.Services\Contact.Services.csproj", "{7BD22253-C7C2-4A10-857A-A3ACB96ADACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Services", "Contact.Services\Contact.Services.csproj", "{7BD22253-C7C2-4A10-857A-A3ACB96ADACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.Infrastructure", "Reservation.Infrastructure\Reservation.Infrastructure.csproj", "{CAA3EA2E-79DE-406E-8551-263C5E37DEA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.Infrastructure", "Reservation.Infrastructure\Reservation.Infrastructure.csproj", "{CAA3EA2E-79DE-406E-8551-263C5E37DEA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.Models", "Reservation.Models\Reservation.Models.csproj", "{C3D28923-5234-4538-B9C2-A961C6FAF254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.Models", "Reservation.Models\Reservation.Models.csproj", "{C3D28923-5234-4538-B9C2-A961C6FAF254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.Services", "Reservation.Services\Reservation.Services.csproj", "{CED0844F-16AD-4CE1-8583-0ADF45C66C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.Services", "Reservation.Services\Reservation.Services.csproj", "{CED0844F-16AD-4CE1-8583-0ADF45C66C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
